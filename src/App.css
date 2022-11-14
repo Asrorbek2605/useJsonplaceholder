@@ -1,0 +1,8 @@
+.posts-page .post-card{
+    height: 300px;
+
+}
+.posts-page .post-card:hover{
+box-shadow: 0 0 10px;
+    cursor: pointer;
+}
